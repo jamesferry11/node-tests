@@ -1,3 +1,4 @@
-/**
- * Created by beefm on 2/23/2017.
- */
+module.exports.add = (a, b) => a + b;
+
+module.exports.square = (x) => x* x;
+
