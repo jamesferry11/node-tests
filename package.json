@@ -1,0 +1,22 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "Basic tests for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesferry11/node-tests.git"
+  },
+  "author": "James Ferry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesferry11/node-tests/issues"
+  },
+  "homepage": "https://github.com/jamesferry11/node-tests#readme",
+  "devDependencies": {
+    "mocha": "^3.0.0"
+  }
+}
